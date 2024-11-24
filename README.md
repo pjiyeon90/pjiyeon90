@@ -24,17 +24,21 @@
 <a href="https://mui.com/" target="_blank"><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/></a>
 
-<h3 style="font-size: 25px;">💌Social</h3> <br>
-<a href="mailto:parwlfod@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parkwlfod@gmail.com"/></a>
-
 <h3>👩‍💻 My Github Stats </h3>
 <div>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=pjiyeon90&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjiyeon90&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>
 </div>
 
-
-
-
+<h3 style="font-size: 25px;">💌Social</h3> <br>
+<a href="mailto:parwlfod@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parkwlfod@gmail.com"/></a>
+<a href="mailto:parkwlfod@naver.com">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Email"/>
+</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
